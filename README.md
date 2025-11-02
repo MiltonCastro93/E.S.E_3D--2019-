@@ -45,12 +45,11 @@ El proyecto fue desarrollado con fines **académicos y personales**, explorando 
 
 _(Imágenes de libre licencia utilizadas con fines académicos)_
 
-![Captura 1](Images/captura1.png)
-![Captura 2](Images/captura2.png)
-![Captura 3](Images/captura3.png)
-![Captura 4](Images/captura4.png)
+![Captura 1](https://github.com/MiltonCastro93/E.S.E_3D--2019-/blob/main/Captura%20de%20pantalla%202025-11-02%20143406.png)
+![Captura 2](https://github.com/MiltonCastro93/E.S.E_3D--2019-/blob/main/Captura%20de%20pantalla%202025-11-02%20143431.png)
+![Captura 3](https://github.com/MiltonCastro93/E.S.E_3D--2019-/blob/main/Captura%20de%20pantalla%202025-11-02%20143453.png)
 
-> _(Podés reemplazar los enlaces por las rutas reales o URLs de tus imágenes del repositorio.)_
+> _(Capturas de Pantalla del juego.)_
 
 ---
 
